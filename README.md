@@ -2,7 +2,8 @@
 Soy **desarrollador** ***FullStack*** con dominio en **JavaScript**, **React** y **Node.js**. <br/>
 <br/>
 
-⚙ **Habilidades Tecnicas**
+⚙ **Habilidades Tecnicas** <br/>
+✨**New:** Next.js | Apollo | GraphQL
   - React | redux | JavaScript | HTML5 | CSS3
   - Node.js | JavaScript | express | sequelize | postgresSQL
   - Jest | Supertest | Vitest
