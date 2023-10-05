@@ -5,7 +5,7 @@ Soy **desarrollador** ***FullStack*** con dominio en **JavaScript**, **React** y
 ⚙ **Habilidades Tecnicas** <br/>
 ✨**New:** Next.js | Apollo | GraphQL
   - React | redux | JavaScript | HTML5 | CSS3
-  - Node.js | JavaScript | express | sequelize | postgresSQL
+  - Node.js | JavaScript | express | sequelize | postgresSQL | C#
   - Jest | Supertest | Vitest
 <br/>
 
@@ -14,5 +14,8 @@ Soy **desarrollador** ***FullStack*** con dominio en **JavaScript**, **React** y
 <br/>
 
 💼**Experiencia** <br/>
+👨‍💻 Actualmente - Desarrollador de aplicaciones web en React, Apollo, GraphQL y PostgreSQL
 🎮 3 años en desarrollo de videojuegos casules a traves de Unity utilizando el lenguaje C#
 
+📬**Información de contacto** <br/>
+📧 marcos.rehtanz@gmail.com
