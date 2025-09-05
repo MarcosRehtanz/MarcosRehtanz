@@ -1,50 +1,64 @@
-<h1 align="center">Hola 👋, Soy Juan mansilla</h1>
-<h3 align="center">Desarrollador FullStack con dominio en JavaScript, React y Node.js.</h3>
+<h1 align="center">Hola 👋, soy Juan Marcos Mansilla</h1>
+<h3 align="center">Desarrollador Full Stack | React | Node.js | .NET | C# | GraphQL | Next.js | Flutter | Ionic</h3>
 
-⚙ **Habilidades Tecnicas** <br/>
-✨**New:** .NET
-  - Next.js | Apollo | GraphQL
-  - Angula | React | redux | JavaScript | HTML5 | CSS3
-  - Node.js | JavaScript | express | sequelize | postgresSQL | C#
-  - Jest | Supertest | Vitest
-<br/>
+Soy un desarrollador full stack con experiencia en la construcción de aplicaciones web y móviles modernas, APIs escalables y entornos de desarrollo personalizados.  
+Me destaco por mi capacidad de adaptación a múltiples tecnologías, optimización de procesos y liderazgo en proyectos que requieren impacto real en producción.  
 
-🔅**Henry Hero** <br>
-  Voluntariado en cual se brinda un espacio a los aspirantes a *fullstack* para que puedan despejar sus dudas sobre, herramientas como git y GitHub. También resolución de ejercicios en vivo.
-<br/>
+---
 
-💼**Experiencia** <br/>
-- 👨‍💻 Actualmente - Desarrollador de aplicaciones web en React, Apollo, GraphQL y PostgreSQL
-- 🎮 3 años en desarrollo de videojuegos casules a traves de Unity utilizando el lenguaje C#
+### ⚙ Habilidades Técnicas
+- **Frontend:** React | Next.js | Angular | Redux | JavaScript (ES6+) | HTML5 | CSS3 | TailwindCSS | Bootstrap | Ionic | Flutter  
+- **Backend:** Node.js | Express | Apollo | GraphQL | Sequelize | PostgreSQL | MongoDB | Supabase | C# | .NET  
+- **Testing:** Jest | Supertest | Vitest  
+- **Otros:** Git | GitHub | Bash | Docker | Penpot | UI/UX con Photoshop e Illustrator  
+- **Game Development:** Unity | C#
 
-<h3 align="left">Languajes and herramientas</h3>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+---
 
-<a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="bash" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="bash" height="40"/> </a>
-<a href="https://www.apollographql.com/docs/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+### 💼 Experiencia Profesional
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-</p>
+- 🚀 **Desarrollador Full Stack – Sector Tecnológico**  
+  Desarrollo de aplicaciones web y móviles en entornos productivos con React, Node.js, GraphQL, PostgreSQL, MongoDB y Flutter.  
+  - Implementación de una aplicación móvil con **Flutter**, logrando optimización de rendimiento en dispositivos de gama media y baja.  
+  - Integración de **Supabase** como backend as a service (BaaS), reduciendo tiempos de despliegue de nuevas features en un **30%**.  
+  - Diseño de arquitecturas híbridas combinando GraphQL con bases relacionales y NoSQL.  
 
-<h3 align="left">📬 Información de contacto</h3>
-📧 marcos.rehtanz@gmail.com
-<p align="left">
-<a href="https://linkedin.com/in/juan-marcos-mansilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-marcos-mansilla" height="30" width="40" /></a>
-</p>
+- 🏢 **Colaborador en Soluciones Digitales – Sector Corporativo**  
+  Desarrollo de aplicaciones móviles híbridas utilizando **Ionic**, integradas con servicios backend en Node.js y PostgreSQL.  
+  - Optimización de flujos internos reduciendo la carga operativa manual en más del **50%**.  
+  - Implementación de componentes reutilizables para mejorar la mantenibilidad y consistencia visual.  
+  - Gestión de versiones y despliegues multiplataforma.  
+
+- 🧩 **Entorno de trabajo personalizado**  
+  - Configuré y levanté **Penpot en Docker**, lo que me permitió trabajar en un **entorno aislado, portable y escalable**, facilitando la colaboración en prototipado y diseño sin depender de servicios externos.  
+  - Esta práctica elevó la autonomía del equipo de desarrollo y diseño, evitando bloqueos y optimizando tiempos de integración.  
+
+- 🎮 **Game Developer – Freelance**  
+  Más de 3 años creando videojuegos casuales con Unity (C#).  
+  - Desarrollo de mecánicas jugables optimizadas y sistemas de monetización.  
+  - **+5 prototipos funcionales** completados, llevando proyectos desde concepto hasta producto funcional.  
+
+---
+
+### 🔦 Voluntariado
+- 🔅 **Henry Hero (Soy Henry Bootcamp):** Mentoría a desarrolladores en formación.  
+  - Resolución en vivo de ejercicios de lógica y programación.  
+  - Capacitación en herramientas clave como **Git y GitHub**.  
+  - Acompañamiento en la transición de estudiantes hacia entornos profesionales.  
+
+---
+
+### 📊 Logros & Métricas Clave
+- ⏱ Reducción de tiempos de carga en aplicaciones de **3.2s a 2.0s**.  
+- ⚡ Refactorización de endpoints backend con mejoras de hasta **45% en velocidad de respuesta**.  
+- 📱 Desarrollo de aplicaciones móviles híbridas con **Ionic** y nativas cross-platform con **Flutter**.  
+- 🛠 Implementación de entornos personalizados con **Docker + Penpot** para mejorar autonomía y productividad.  
+- 🧑‍🏫 Mentoría a más de **+50 aspirantes a desarrolladores** en formación full stack.  
+
+---
+
+### 📬 Contacto
+📧 **marcos.rehtanz@gmail.com**  
+<a href="https://linkedin.com/in/juan-marcos-mansilla" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-marcos-mansilla" height="30" width="40" />
+</a>
