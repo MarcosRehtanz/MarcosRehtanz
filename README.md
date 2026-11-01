@@ -1,64 +1,54 @@
-<h1 align="center">Hola 👋, soy Juan Marcos Mansilla</h1>
-<h3 align="center">Desarrollador Full Stack | React | Node.js | .NET | C# | GraphQL | Next.js | Flutter | Ionic</h3>
+<h1 align="center">Juan Marcos Mansilla</h1>
+<h3 align="center">Software Engineer · Backend &amp; Cloud</h3>
 
-Soy un desarrollador full stack con experiencia en la construcción de aplicaciones web y móviles modernas, APIs escalables y entornos de desarrollo personalizados.  
-Me destaco por mi capacidad de adaptación a múltiples tecnologías, optimización de procesos y liderazgo en proyectos que requieren impacto real en producción.  
-
----
-
-### ⚙ Habilidades Técnicas
-- **Frontend:** React | Next.js | Angular | Redux | JavaScript (ES6+) | HTML5 | CSS3 | TailwindCSS | Bootstrap | Ionic | Flutter  
-- **Backend:** Node.js | Express | Apollo | GraphQL | Sequelize | PostgreSQL | MongoDB | Supabase | C# | .NET  
-- **Testing:** Jest | Supertest | Vitest  
-- **Otros:** Git | GitHub | Bash | Docker | Penpot | UI/UX con Photoshop e Illustrator  
-- **Game Development:** Unity | C#
+<p align="center">
+  <b>Software Engineer (SSR) en DynnamoCrypt</b> · Bahía Blanca, Argentina<br>
+  ERPs de turismo, plataformas SaaS multi-tenant y sistemas en tiempo real.
+</p>
 
 ---
 
-### 💼 Experiencia Profesional
+## 🚀 Lo que hago hoy
 
-- 🚀 **Desarrollador Full Stack – Sector Tecnológico**  
-  Desarrollo de aplicaciones web y móviles en entornos productivos con React, Node.js, GraphQL, PostgreSQL, MongoDB y Flutter.  
-  - Implementación de una aplicación móvil con **Flutter**, logrando optimización de rendimiento en dispositivos de gama media y baja.  
-  - Integración de **Supabase** como backend as a service (BaaS), reduciendo tiempos de despliegue de nuevas features en un **30%**.  
-  - Diseño de arquitecturas híbridas combinando GraphQL con bases relacionales y NoSQL.  
+**Software Engineer (SSR) · DynnamoCrypt** — 2026 → presente
 
-- 🏢 **Colaborador en Soluciones Digitales – Sector Corporativo**  
-  Desarrollo de aplicaciones móviles híbridas utilizando **Ionic**, integradas con servicios backend en Node.js y PostgreSQL.  
-  - Optimización de flujos internos reduciendo la carga operativa manual en más del **50%**.  
-  - Implementación de componentes reutilizables para mejorar la mantenibilidad y consistencia visual.  
-  - Gestión de versiones y despliegues multiplataforma.  
+- Lideré la migración del motor de base de datos del ERP Strix (PHP) **en producción**: 200 tablas de MyISAM a InnoDB sobre MariaDB, migradas tabla por tabla con backups previos y validación en staging.
+- Realizó hardening de SQL injection en sistemas PHP legacy, reemplazo de Apache por Nginx y optimización de consultas lentas.
+- Integró AWS Secrets Manager en un ERP .NET Core, eliminando credenciales del entorno, y dockerizó el ERP para entornos de desarrollo y staging consistentes.
+- Actualmente lidera la migración de EC2 a RDS para mejorar backups automáticos, confiabilidad y escalabilidad.
+- Participa en decisiones de arquitectura de un portfolio de 8+ clientes (URGARA, Bilbao, GlobalTrade, Bahía Ambiental, entre otros).
 
-- 🧩 **Entorno de trabajo personalizado**  
-  - Configuré y levanté **Penpot en Docker**, lo que me permitió trabajar en un **entorno aislado, portable y escalable**, facilitando la colaboración en prototipado y diseño sin depender de servicios externos.  
-  - Esta práctica elevó la autonomía del equipo de desarrollo y diseño, evitando bloqueos y optimizando tiempos de integración.  
+**Software Engineer & Coordinador Técnico (freelance) · Kheiron Company** — 2024-05 → 2026-03
 
-- 🎮 **Game Developer – Freelance**  
-  Más de 3 años creando videojuegos casuales con Unity (C#).  
-  - Desarrollo de mecánicas jugables optimizadas y sistemas de monetización.  
-  - **+5 prototipos funcionales** completados, llevando proyectos desde concepto hasta producto funcional.  
+- **Orion Tour** — ERP de turismo que salió a producción: sistema de reservas, pagos live con MercadoPago, módulo financiero (facturación, comisiones, cuentas por pagar/cobrar), motor de cotización y editor de flyers, con 3.645 tests de backend en verde.
+- **Luriam** — plataforma a medida para una sucursal de masajes (luriam.com.mx): agenda en tiempo real vía Socket.io, colas de trabajo con BullMQ y correo transaccional con AWS SES.
+- **AresOne** — SaaS multi-tenant de dropshipping, en beta con su primer early adopter.
+- Coordinación técnica de un equipo de 3 desarrolladores: revisión de PRs, GitFlow y pipelines CI/CD con GitHub Actions.
 
----
+## 🧰 Stack
 
-### 🔦 Voluntariado
-- 🔅 **Henry Hero (Soy Henry Bootcamp):** Mentoría a desarrolladores en formación.  
-  - Resolución en vivo de ejercicios de lógica y programación.  
-  - Capacitación en herramientas clave como **Git y GitHub**.  
-  - Acompañamiento en la transición de estudiantes hacia entornos profesionales.  
+| Área | Tecnologías |
+|---|---|
+| **Backend** | Node.js · NestJS · TypeScript · REST APIs |
+| **Frontend** | Next.js · React · React Native |
+| **Datos** | PostgreSQL · MySQL / MariaDB · Prisma · Redis |
+| **Infra & Cloud** | AWS (EC2, RDS, S3, SES, Secrets Manager) · Docker · Nginx · Cloudflare |
+| **Tiempo real & colas** | Socket.io · WebSockets · BullMQ |
+| **DevOps & QA** | GitHub Actions · Jest · Playwright · Prometheus · Swagger |
+| **IA aplicada** | Claude Code · OpenCode · Agentes de IA · MCP |
 
----
+## 📦 Proyectos
 
-### 📊 Logros & Métricas Clave
-- ⏱ Reducción de tiempos de carga en aplicaciones de **3.2s a 2.0s**.  
-- ⚡ Refactorización de endpoints backend con mejoras de hasta **45% en velocidad de respuesta**.  
-- 📱 Desarrollo de aplicaciones móviles híbridas con **Ionic** y nativas cross-platform con **Flutter**.  
-- 🛠 Implementación de entornos personalizados con **Docker + Penpot** para mejorar autonomía y productividad.  
-- 🧑‍🏫 Mentoría a más de **+50 aspirantes a desarrolladores** en formación full stack.  
+- 🧾 **[Orion Tour](https://oriontour.cloud)** — ERP de turismo multi-tenant en producción
+- 📅 **[Luriam](https://luriam.com.mx)** — agenda en tiempo real para sucursal de masajes
+- 🌐 **[Portfolio](https://juanmansilladev.vercel.app)** — sitio personal con CV descargable
+- 🎮 **[Family Bunny](https://marcosmansilla.itch.io/family-bunny)** — videojuego 3D publicado en itch.io (Unity/C#)
+- 🕌 **[Adhan Companion](https://github.com/MarcosRehtanz/adhan-companion)** — app de escritorio tray-first para Ubuntu (Rust)
 
----
+## 📬 Contacto
 
-### 📬 Contacto
-📧 **marcos.rehtanz@gmail.com**  
-<a href="https://linkedin.com/in/juan-marcos-mansilla" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-marcos-mansilla" height="30" width="40" />
-</a>
+- ✉️ **marcos.rehtanz@gmail.com**
+- 💼 [LinkedIn — juan-marcos-mansilla](https://linkedin.com/in/juan-marcos-mansilla)
+- 📄 [CV en español](https://juanmansilladev.vercel.app/CV_Juan_Mansilla_es.pdf) · [CV en inglés](https://juanmansilladev.vercel.app/CV_Juan_Mansilla_en.pdf)
+
+<!-- Datos del perfil editados el 2026-11-01, alineados con el CV versión compacta (curriculum_generator). -->
